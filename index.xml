@@ -8,12 +8,57 @@
     <language>en-US</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mdeepaiisc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emoji Support</title>
-      <link>https://mdeepaiisc.github.io/blog/emoji-support/</link>
+      <title>Biocompatibility of the implant design (in vitro and vivo studies)</title>
+      <link>https://mdeepaiisc.github.io/blog/bio_compatibility_of_the_impant_systems/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mdeepaiisc.github.io/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://mdeepaiisc.github.io/blog/bio_compatibility_of_the_impant_systems/</guid>
+      <description>Details about projects are WORK IN PROGRESS</description>
+    </item>
+    
+    <item>
+      <title>Design and development of 3-piece Ti6Al4V based dental Implant system</title>
+      <link>https://mdeepaiisc.github.io/blog/3pieceti6al4v/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdeepaiisc.github.io/blog/3pieceti6al4v/</guid>
+      <description>Details about projects are WORK IN PROGRESS</description>
+    </item>
+    
+    <item>
+      <title>Design and development of Single Piece of Ceramic dental Implant system</title>
+      <link>https://mdeepaiisc.github.io/blog/single_piece_of_ceramic_dental_implant_system/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdeepaiisc.github.io/blog/single_piece_of_ceramic_dental_implant_system/</guid>
+      <description>Details about projects are WORK IN PROGRESS</description>
+    </item>
+    
+    <item>
+      <title>Finite Element Analysis (FEA) of the implant assembly to check the fatigue failure of the implants</title>
+      <link>https://mdeepaiisc.github.io/blog/fea_of_the_implant_assembly_to_check_the_fatigue_failure_of_the_implants/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdeepaiisc.github.io/blog/fea_of_the_implant_assembly_to_check_the_fatigue_failure_of_the_implants/</guid>
+      <description>Details about projects are WORK IN PROGRESS</description>
+    </item>
+    
+    <item>
+      <title>Surface Modification of the Implant system</title>
+      <link>https://mdeepaiisc.github.io/blog/surface_mod_of_implant_system/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdeepaiisc.github.io/blog/surface_mod_of_implant_system/</guid>
+      <description>Details about projects are WORK IN PROGRESS</description>
+    </item>
+    
+    <item>
+      <title>Torque study of both Implant system</title>
+      <link>https://mdeepaiisc.github.io/blog/torque_study_of_both_implant_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mdeepaiisc.github.io/blog/torque_study_of_both_implant_system/</guid>
+      <description>Details about projects are WORK IN PROGRESS</description>
     </item>
     
   </channel>
